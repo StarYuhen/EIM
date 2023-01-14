@@ -1,0 +1,6 @@
+# Mysql数据库配置
+DataBase:
+  user: root
+  password: abc123456
+  schema: EIM
+  addr: 127.0.0.1:3306
